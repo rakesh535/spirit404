@@ -1,0 +1,36 @@
+{
+  "name": "spirit404",
+  "description": "Creative 404 not-found HTML Template",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "keywords": [
+    "404",
+    "not",
+    "found",
+    "html",
+    "template",
+    "animation",
+    "css"
+  ],
+  "author": "rakesh535",
+  "license": "ISC",
+  "scripts": {
+    "start": "npm run watch-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15",
+    "laravel-elixir-browsersync-official": "^1.0.0",
+    "laravel-elixir-pug": "^1.3.2"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "wow.js": "^1.2.2"
+  }
+}
